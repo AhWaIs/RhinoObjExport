@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RhinoObjExport": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Program Files\\Rhino 7\\System"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\bin\Debug\net48\RhinoObjExport.rhp
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\bin\Debug\net48\RhinoObjExport.pdb
+C:\Program Files\Rhino 7\System\Debug\net48\RhinoObjExport.rhp
+C:\Program Files\Rhino 7\Plug-ins\Debug\net48\RhinoObjExport.rhp
+C:\Program Files\Rhino 7\Plug-ins\Debug\net48\RhinoObjExport.pdb
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.csproj.AssemblyReference.cache
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.Properties.Resources.resources
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.csproj.GenerateResource.cache
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.AssemblyInfoInputs.cache
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.AssemblyInfo.cs
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.csproj.CoreCompileInputs.cache
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.rhp
+C:\Users\waelext\source\repos\RhinoObjExport\RhinoObjExport\obj\Debug\net48\RhinoObjExport.pdb

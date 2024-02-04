@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hI1POi5809VEqrNd9VPf3ugpFWXk2Rp5fK1Y2hwJVCcLOmvhvtA7z1aQO4AdYE1klzM8ufJiNMPEhlilIPSgHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\waelext\\source\\repos\\RhinoObjExport\\RhinoObjExport\\RhinoObjExport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waelext\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
